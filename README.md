@@ -132,7 +132,7 @@ Submit a pull request
 This project is licensed under the MIT License.
 
 👨‍🚀 Author
-Made with 💡 by Karthik
+Made with 💡 by Master-X
 
 ---
 
